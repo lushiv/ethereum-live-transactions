@@ -1,4 +1,8 @@
 # Getting Started
+  ## Here is the daigram for how to web3 js work
+  <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/rQsbWj1/web3-1.png" height="175px"/></a>
+    <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/TrbZhP3/web3-2.png" height="175px"/></a>
+    
 The web3.js library is a collection of modules which contain specific functionality for the ethereum ecosystem.
 
 - The` web3-eth` is for the ethereum blockchain and smart contracts
@@ -22,13 +26,6 @@ The web3.js library is a collection of modules which contain specific functional
   
   ## [How to Setup Infura](https://infura.io/dashboard)
   <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/gtvrjKv/Screenshot-from-2022-01-16-16-33-24.png" height="175px"/></a>
-
-
-   ## Here is the daigram for how to web3 js work
-  <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/rQsbWj1/web3-1.png" height="175px"/></a>
-    <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/TrbZhP3/web3-2.png" height="175px"/></a>
-
-
 
 ## RESOURCES
 1. [web3 js](https://web3js.readthedocs.io/en/v1.2.1/getting-started.html)
