@@ -59,7 +59,7 @@ server/package-lock.json
 client/package-lock.json
 
 #.env file in server
-server/.env
+.env
 
 .vscode/
 package-lock.json
